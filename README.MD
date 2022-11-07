@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto construído último evento Next Level Week da Rocketseat.
+Projeto concluído no evento Next Level Week do ano da Rocketseat.
 
 [🔗Clique aqui para acessar](https://jorginhoo.github.io/nlw-copa/)
 
