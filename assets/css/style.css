@@ -138,3 +138,13 @@ header {
         flex-wrap: wrap;
     }
 }
+
+footer {
+    background: rgb(1,1,1);
+    background: linear-gradient(90deg, rgba(1,1,1,1) 0%, rgba(31,29,23,1) 32%, rgba(46,45,42,1) 63%, rgba(20,20,18,1) 77%, rgba(51,47,42,1) 100%, rgba(0,0,0,1) 100%);
+    color: whitesmoke;
+   text-align: center;
+   margin-top: 45px;
+ 
+   
+}
