@@ -1,0 +1,21 @@
+# NLW eSports 
+
+![preview](./.github/preview.png)
+
+> Trilha Explorer
+
+Projeto construído último evento Next Level Week da Rocketseat.
+
+[🔗Clique aqui para acessar](https://jorginhoo.github.io/nlw-copa/)
+
+## 🚀 Tecnologias e Biblioteca
+
+- HTML
+- CSS
+- JavaScript
+- Git e Github
+
+
+## 🌐 Contato
+
+[🔗LinkedIn](https://www.linkedin.com/in/jorge-sidney-1b9696238/)
