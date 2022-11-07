@@ -8,7 +8,7 @@ Projeto concluído no evento Next Level Week do ano da Rocketseat.
 
 [🔗Clique aqui para acessar](https://jorginhoo.github.io/nlw-copa/)
 
-## 🚀 Tecnologias e Biblioteca
+## 🚀 Tecnologias:
 
 - HTML
 - CSS
