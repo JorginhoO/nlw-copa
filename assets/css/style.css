@@ -60,12 +60,18 @@ header {
     margin-inline: auto;
     margin-bottom: 53px;
     color: #F7DD43;
+    transition: transform 0.3s;   
 }
 
 .card h2 span {
     color: #E1E1E6;
     font-size: 14px;
     text-transform: uppercase;
+}
+
+.card h3 {
+    color: #E1E1E6;
+    font-size: 14px;  
 }
 
 .card ul {
@@ -95,8 +101,9 @@ header {
 }
 
 .card ul li strong:hover,
-.card ul li img:hover {
-    transform: scale(1.1);
+.card ul li img:hover,
+.card h2:hover{
+    transform: scale(1.1);    
 }
 
 .card ul li strong,
