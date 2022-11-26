@@ -69,13 +69,13 @@ document.querySelector("#cards").innerHTML =
                 "sexta",
                 createGame("Gales", "0 x 2", "Irã", "Grupo B") +
                 createGame("Catar", "1 x 3", "Senegal", "Grupo A") +
-                createGame("Holanda", "13:00", "Equador", "Grupo A") + 
-                createGame("Inglaterra", "16:00", "Estados-Unidos", "Grupo B")
+                createGame("Holanda", "1 x 1", "Equador", "Grupo A") + 
+                createGame("Inglaterra", "0 x 0", "Estados-Unidos", "Grupo B")
         ) + 
             createCard(
                 "26/11",
                 "sabado",
-                createGame("Tunísia", "07:00", "Austrália", "Grupo D") +
+                createGame("Tunísia", "0 x 1", "Austrália", "Grupo D") +
                 createGame("Polônia", "10:00", "Arábia-Saudita", "Grupo C") +
                 createGame("França", "13:00", "Dinamarca", "Grupo D") + 
                 createGame("Argentina", "16:00", "México", "Grupo C")
